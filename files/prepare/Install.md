@@ -25,7 +25,8 @@ https://www.anaconda.com/distribution/ и загрузите инсталлят�
 [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/getting-started/)
   или [командную строку](https://docs.anaconda.com/anaconda/user-guide/tasks/install-packages/)
 * В Linux и macOS установка пакетов выполняется с помощью командной строки. 
-Достаточно открыть терминал и выполнить следующие команды:
+Достаточно открыть терминал и выполнить следующую команду:
+
    `conda install jupyter numpy scipy sympy matplotlib`
    
    
