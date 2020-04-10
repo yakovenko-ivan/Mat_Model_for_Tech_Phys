@@ -10,7 +10,7 @@
 Для установки Anaconda на свой персональный компьютер перейдите по ссылке
 https://www.anaconda.com/distribution/ и загрузите инсталлятор для версии python 3.7 или выше для свой операционной системы (Windows, macOS или Linux).
 
-![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/tree/master/files/prepare/install.gif)
+![Alt Text](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/install.gif?raw=true)
 
 Если доступной памяти недостаточно для установки полной версии Anaconda
 можно загрузить минимальный инсталлятор miniconda (https://docs.conda.io/en/latest/miniconda.html),
