@@ -8,5 +8,8 @@
  * Введение в работу с блокнотами Jupyter Notebooks
  * Введение в работу git
  
+ # Содержание курса
+ [Лекция 0.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_0/Lesson0.ipynb) Основы языка программирования python 3. 
+ 
  ___
 
