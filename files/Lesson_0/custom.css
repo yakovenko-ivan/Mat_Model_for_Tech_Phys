@@ -1,0 +1,146 @@
+<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900,100italic,300italic,400italic,500italic,700italic,800italic,900italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Monserrat:400,500&display=swap&subset=cyrillic' rel='stylesheet' type='text/css'>
+
+
+<style>
+
+#notebook_panel { /* main background */
+    background: #888;
+    color: #f6f6f6;
+}
+
+div.cell { /* set cell width to about 80 chars */
+    width: 900px;
+}
+
+div #notebook { /* centre the content */
+    background: #fff; /* white background for content */
+    width: 1000px;
+    margin: auto;
+    padding-left: 1em;
+}
+
+#notebook li { /* More space between bullet points */
+margin-top:0.8em;
+}
+
+/* change markdown inline code style */
+.rendered_html code {
+  background-color: #d5eaff;
+  margin: 0px 2px;
+  font-family: 'Source Code Pro' sans-serif;
+  font-size: 12pt;
+  border: solid 0.5px white;
+  box-sizing: border-box;
+}
+/* change markdown code snipet style */
+.rendered_html pre code {
+  background-color: #f7f7f7;
+  font-size: 12pt;
+  font-family: 'Source Code Pro' sans-serif;
+}
+/* change markdown code snipet wrapper style */
+.rendered_html pre {
+  margin: 1em 2em;
+  padding: 0px;
+  background-color: #f7f7f7;
+  border-left: solid 5px #d5eaff;
+  padding-left: 5px;
+}
+
+/* draw border around running cells */
+div.cell.border-box-sizing.code_cell.running { 
+    border: 3px solid #111;
+}
+
+/* Put a solid color box around each cell and its output, visually linking them together */
+div.cell.code_cell {
+	font-family: 'Source Code Pro' sans-serif;
+    background-color: #A3FFD2 ; /*  #AED2C6; */ 
+    border-radius: 5px; /* rounded borders */
+    padding: 1em;
+    margin-top: 1em;
+}
+
+div.text_cell_render{
+    font-family: 'Alegreya Sans', sans-serif;
+    line-height: 130%;
+    font-size: 15pt;
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+/* Formatting for header cells */
+.text_cell_render h1 {
+    font-family: 'Philosopher', sans-serif;
+    font-weight: 400;
+    font-size: 40pt;
+    line-height: 100%;
+    color: rgb(12,85,97);
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    display: block;
+}	
+.text_cell_render h2 {
+    font-family: 'Philosopher', serif;
+    font-weight: 700;
+    font-size: 30pt;
+    line-height: 100%;
+    color: rgb(171,165,131);
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    display: block;
+}	
+
+.text_cell_render h3 {
+    font-family: 'Philosopher', serif;
+    font-size: 25pt;
+    margin-top:12px;
+    margin-bottom: 3px;
+    font-style: italic;
+    color: rgb(95,92,72);
+}
+
+.text_cell_render h4 {
+    font-family: 'Philosopher', serif;
+}
+
+.text_cell_render h5 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16pt;
+    color: #CD2305;
+    font-style: italic;
+    margin-bottom: .1em;
+    margin-top: 0.1em;
+    display: block;
+}
+
+.text_cell_render h6 {
+    font-family: 'PT Mono', sans-serif;
+    font-weight: 300;
+    font-size: 10pt;
+    color: grey;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+
+.text_cell_render p {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 15pt;
+	color: black;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.CodeMirror{
+    font-family: "PT Mono";
+    font-size: 100%;
+}
+
+</style>
