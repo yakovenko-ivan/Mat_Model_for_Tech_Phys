@@ -37,6 +37,8 @@ print (x)
 ```
 После нажатия *Shift+Enter* мы увидим, что индекс второй ячейки поменяется на `In [2]:`, а после неё появится результат команды `print (x)`.
 
+![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/jupyter_execute_cell.gif?raw=true)
+
 ## Перемещение ячеек
 
 Для перемещения используются стрелки меню. 
