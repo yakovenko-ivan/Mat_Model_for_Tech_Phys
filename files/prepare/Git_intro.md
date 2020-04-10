@@ -13,11 +13,11 @@
 
 Тем не менее, как уже было отмечено, владение основами git может быть полезно, а порой даже необходимо во многих областях деятельности.
 Поэтому ниже приведем список полезных ссылок и материалов для изучения git:
-1. Официальная tutorial git-scm (https://git-scm.com/docs/gittutorial)[eng]
-2. Книга Pro Git (https://git-scm.com/book/en/v2)[eng,ru]
-2. Tutorial от Atlassian (https://www.atlassian.com/git/tutorials)[eng]
+1. Официальная tutorial git-scm (https://git-scm.com/docs/gittutorial) [eng]
+2. Книга Pro Git (https://git-scm.com/book/en/v2) [eng,ru]
+2. Tutorial от Atlassian (https://www.atlassian.com/git/tutorials) [eng]
 3. Материалы GitHub:
-    * YouTube канал с видео уроками (https://www.youtube.com/user/GitHubGuides/featured)[eng]
+    * YouTube канал с видео уроками (https://www.youtube.com/user/GitHubGuides/featured) [eng]
     * GitHandbook (https://guides.github.com/introduction/git-handbook/) [eng]   
 4. Интерактивное руководство по ветвлениям в git (https://learngitbranching.js.org/?locale=ru_RU) [eng]
 5. Git за полчаса: руководство для начинающих от proglib (https://proglib.io/p/git-for-half-an-hour) [ru]
