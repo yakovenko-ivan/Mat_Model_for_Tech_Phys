@@ -44,7 +44,7 @@ print (x)
 Для перемещения используются стрелки меню. 
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/jupyter_moving_cell.gif?raw=true)
 
-Для удаления ячейки наведите щелкните левой кнопкой мыши на её индексе и нажмите d+d.
+Для удаления ячейки наведите щелкните левой кнопкой мыши на её индексе и нажмите *d+d*.
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/jupyter_deleting_cell.gif?raw=true)
 
 Чтобы добавить ячейку снизу можно использовать кнопку `+` в меню. С помощью `Insert - Insert Cell Below` и `Insert - Insert Cell Above`
