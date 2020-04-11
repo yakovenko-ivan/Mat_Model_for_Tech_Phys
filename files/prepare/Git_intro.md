@@ -12,6 +12,10 @@
 Все материалы курса можно скачать используя браузер.
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/github_download.gif?raw=true)
 
+Одним из полезных возможностей GitHub является так называемый Bug Tracker - инструмент для мониторинга проблем в работе проекта (вкалдка [Issues](https://guides.github.com/features/issues/) в репозитории). Всем студентам можно и нужно пользоваться этой возможностью как для создания вопросов по работе с материалами курса, так и при обнаружении проблем. 
+
+![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/github_bugtracker.gif?raw=true)
+
 Тем не менее, как уже было отмечено, владение основами git может быть полезно, а порой даже необходимо во многих областях деятельности.
 Поэтому ниже приведем список полезных ссылок и материалов для изучения git:
 1. Официальная tutorial git-scm (https://git-scm.com/docs/gittutorial) [eng]
