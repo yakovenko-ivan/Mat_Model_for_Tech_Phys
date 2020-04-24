@@ -7,17 +7,17 @@
 
 <style>
 
-#notebook_panel { /* main background */
-    background: #888;
+/*#notebook_panel { /* main background */
+/*    background: #888;
     color: #f6f6f6;
-}
+}*/
 
 div.cell { /* set cell width to about 80 chars */
     width: 900px;
 }
 
 div #notebook { /* centre the content */
-    background: #fff; /* white background for content */
+    background: #f6f6f6; /* white background for content */
     width: 1000px;
     margin: auto;
     padding-left: 1em;
@@ -108,6 +108,7 @@ div.text_cell_render{
 
 .text_cell_render h4 {
     font-family: 'Philosopher', serif;
+    color: #CD2305;
 }
 
 .text_cell_render h5 {
@@ -136,6 +137,10 @@ div.text_cell_render{
 	color: black;
 	text-align: justify;
 	text-justify: inter-word;
+}
+
+.rendered_html table, .rendered_html td, .rendered_html th {
+    font-size: 12pt;
 }
 
 .CodeMirror{
