@@ -10,6 +10,6 @@
  
  # Содержание курса
  [Лекция 0.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_0/Lesson0.ipynb) Основы языка программирования python 3. 
- 
+ [Лекция 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_1/Lesson1.ipynb) Конечно-разностная аппроксимация производных.  
  ___
 
