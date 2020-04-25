@@ -12,13 +12,14 @@
     color: #f6f6f6;
 }*/
 
+
 div.cell { /* set cell width to about 80 chars */
-    width: 900px;
+    width: 1100px;
 }
 
 div #notebook { /* centre the content */
     background: #f6f6f6; /* white background for content */
-    width: 1000px;
+    width: 1200px;
     margin: auto;
     padding-left: 1em;
 }
@@ -26,6 +27,8 @@ div #notebook { /* centre the content */
 #notebook li { /* More space between bullet points */
 margin-top:0.8em;
 }
+
+
 
 /* change markdown inline code style */
 .rendered_html code {
@@ -69,7 +72,7 @@ div.text_cell_render{
     font-family: 'Alegreya Sans', sans-serif;
     line-height: 130%;
     font-size: 15pt;
-    width:700px;
+    width:900px;
     margin-left:auto;
     margin-right:auto;
 }
@@ -108,6 +111,7 @@ div.text_cell_render{
 
 .text_cell_render h4 {
     font-family: 'Philosopher', serif;
+    font-size: 20pt;
     color: #CD2305;
 }
 
