@@ -9,7 +9,7 @@
  * [Что такое Git и GitHub](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/Git_intro.md)
  
  # Содержание курса
- [Лекция 0.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/860b5a76598735709f75d874164cfb44a04ded11/files/Lesson_0/Lesson_0.ipynb?flush_cache=true) Основы языка программирования python 3. 
+ [Лекция 0.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/9b922a260026f0e1f33563037c1580022a246a89/files/Lesson_0/Lesson_0.ipynb?flush_cache=true) Основы языка программирования python 3. 
  
  Лекция 1. Конечно-разностная аппроксимация производных.  
   * [Часть 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/721b82a19759842819209e64cd6edee2824f88c7/files/Lesson_1/Lesson_1_1.ipynb?flush_cache=true)
