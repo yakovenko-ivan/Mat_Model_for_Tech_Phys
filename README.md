@@ -9,10 +9,10 @@
  * [Что такое Git и GitHub](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/Git_intro.md)
  
  # Содержание курса
- [Лекция 0.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/d42fcd1dc98455c501d3d0d9c649d09a1d8b0b6e/files/Lesson_0/Lesson_0.ipynb?flush_cache=true) Основы языка программирования python 3. 
+ [Лекция 0.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/3760dd9e3504c3dba18e0e630bcb6b71624afb25/files/Lesson_0/Lesson_0.ipynb?flush_cache=true) Основы языка программирования python 3. 
  
  Лекция 1. Конечно-разностная аппроксимация производных.  
-  * [Часть 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/d42fcd1dc98455c501d3d0d9c649d09a1d8b0b6e/files/Lesson_1/Lesson_1_1.ipynb?flush_cache=true)
-  * [Часть 2.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/d42fcd1dc98455c501d3d0d9c649d09a1d8b0b6e/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true)  
+  * [Часть 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/3760dd9e3504c3dba18e0e630bcb6b71624afb25/files/Lesson_1/Lesson_1_1.ipynb?flush_cache=true)
+  * [Часть 2.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/3760dd9e3504c3dba18e0e630bcb6b71624afb25/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true)  
  ___
 
