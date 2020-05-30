@@ -13,6 +13,8 @@
  
  Лекция 1. Конечно-разностная аппроксимация производных.  
   * [Часть 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/3760dd9e3504c3dba18e0e630bcb6b71624afb25/files/Lesson_1/Lesson_1_1.ipynb?flush_cache=true)
-  * [Часть 2.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/3760dd9e3504c3dba18e0e630bcb6b71624afb25/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true)  
+  * [Часть 2.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/3760dd9e3504c3dba18e0e630bcb6b71624afb25/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true) 
+  * [Часть 3.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/54c775f132c7f18b4945590def9856f7a6ff4414/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true)   
+  
  ___
 
