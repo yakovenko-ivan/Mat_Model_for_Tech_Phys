@@ -1,0 +1,220 @@
+% Latex шаблон домашнего задания по курсу Матеметическое моделирование в технической физике
+% для групп магистратуры кафедры "Физика" 
+% факультета "Фундаментальные науки" МГТУ им. Н.Э. Баумана.
+% разработано доцентом кафедры "Физика" Яковенко И.С. на основе шаблона
+% Diogo Correia and João Santos
+% Repository: https://github.com/dvcorreia/engenius-ua-latex-template.git
+
+\documentclass[FN]{math_mod}
+
+% Параметры титульного листа
+% Название работы #1 (общее)
+\title{Домашнее задание №1}
+% Название работы #2 (более конкретно)
+\titletwo{Краткое руководство по использованию \LaTeX~шаблона math\_mod.cls}
+
+% Номер группы
+\groupnumber{23}
+
+% Вариант
+\variant{1}
+
+% ФИО Автора и контактные данные
+\author{Фамилия И.О. \\ \email{emailauthor2@ua.pt}  \and Фамилия И.О. \\ \email{emailauthor2@ua.pt} }
+
+% Время компиляции документа
+\date{\today}
+
+% Версия документа (1я сдача, 2я сдача с учетом замечаний, 3я сдача и т.д.)
+\version{1.0}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+
+В \textbf{аннотации} приводится краткая информация о целях работы, постановке задачи и и результатах. Не более 5 строк.  
+
+\end{abstract}
+
+\section{Общая информация}
+Этот простой шаблон разработан с целью использования пользователем без глубоких навыков работы с \TeX~или \LaTeX. Для компиляции можно использовать как локальные инструменты, такие как \href{https://www.texstudio.org/}{TexStudio}, так и онлайн ресурсы, к примеру \href{https://www.overleaf.com/}{Overleaf}. В \textbf{Overleaf} данный шаблон и класс \textbf{math\_mod.cls} не требуют каких-либо дополнительных настроек, в TeXstudio необходимо установить пакет \href{https://www.ctan.org/pkg/minted}{Minted} для подсветки синтаксиса и настроить компиляцию с флагом \textbf{-shell-escape} (см. к примеру руководство на \href{https://tex.stackexchange.com/questions/99475/how-to-invoke-latex-with-the-shell-escape-flag-in-texstudio-former-texmakerx}{Stack Exchange}). Для знакомства с основными командами \LaTeX~рекомендуются материалы:
+\begin{itemize}
+    \item Небольшой справочник по \LaTeX~от команды Overleaf   (\href{https://ru.overleaf.com/learn/latex/Main_Page}{link})
+    \item Инструкции по офомлению научных статей в \LaTeX~от издателя Elsevier. Имеется шаблон и руководство по работе с ним (\href{https://www.elsevier.com/authors/author-schemas/latex-instructions}{link}) 
+    \item Краткое руководство от Евгения Балдина  (\href{https://www.ibm.com/developerworks/ru/library/latex_tutorial_01/index.html}{link}) 
+    \item Wiki-подобная энциклопедия по \LaTeX~ (\href{https://ru.wikibooks.org/wiki/LaTeX}{link}) 
+    \item он-лайн курс от ВШЭ на Coursera.org (\href{https://www.coursera.org/learn/latex}{link}) 
+\end{itemize}
+
+\section{Заголовок}
+Перед тем как оформлять содержательную часть работы, необходимо оформить заголовок и титульный лист. В частности обозначить заголовок №1, (\mintinline{latex}{\title{}}) в котором указывается номер домашнего задания, и заголовок №2, (\mintinline{latex}{\titletwo{}}) в котором указывается конкретно, чему посвящена работа. Далее в полях \mintinline{latex}{\groupnumber{}} и \mintinline{latex}{\variant{}} указываются номер группы и вариант соответственно. 
+Далее, необходимо указать авторов работы (\mintinline{latex}{\author}). Если автор один, информацию о втором авторе можно удалить или закомментировать, для комментарев в \LaTeX~ используется символ \%. Наконец, нужно заполнить поле 
+\mintinline{latex}{\version{}}, где указывается версия работы. Скажем при первой сдаче пишется номер 1.0, далее если в работе обнаружены ошибки и она передана назад на доработку, после доработки пишется номер 2.0 и т.д. 
+
+После общей информации заполняется краткая аннотация работы в блоке между \mintinline{latex}{\begin{abstract}} и \mintinline{latex}{\end{abstract}}. Аннотация представляет собой краткое содержание проекта с описанием целей работы и полученных результатов.  
+
+\section{Содержание работы}
+
+Далее приведем основные сведения по основным командам \LaTeX~для оформления работы. 
+
+\subsection{Заголовки}
+\label{section}
+
+Заголовки, подзаголовки и подподзаголовки оформляются в \LaTeX~командами \mintinline{latex}{\section{}}, \mintinline{latex}{\subsection{}}, \mintinline{latex}{\subsubsection{}}. К каждому заголовку можно добавить ярлык командой \mintinline{latex}{\label{}}, и в последствии ссылаться на него в тексте командой \mintinline{latex}{\ref{}}. Пример:
+
+Ссылка на параграф ``Заголовки''~\ref{section}.
+
+\subsection{Уравнения}
+
+Уравнения можно писать как в тексте, с выделяя их символами \$: \mintinline{latex}{$x+y=c$}, или в отдельной строке, в блоке между \mintinline{latex}{\begin{equation}} и \mintinline{latex}{\end{equation}}:  
+
+\begin{codebox}{Код для генерации уравнений}
+    \begin{minted}{Latex}
+        \begin{equation}
+            F(x) = \int^a_b \frac{1}{3}x^3 dx
+            \label{eq:func}
+        \end{equation}
+    \end{minted}
+\end{codebox}
+
+Результат:
+\begin{equation}
+    F(x) = \int^a_b \frac{1}{3}x^3 dx
+    \label{eq:func}
+\end{equation}
+
+Здесь также можно добавить ярлык \mintinline{latex}{\label{}}, и сослаться на это Уравнение~\ref{eq:func}. Если на уравнение в тексте не ссылаются и номер для уравнения не требуется, используется блок \mintinline{latex}{\begin{equation*}} и \mintinline{latex}{\end{equation*}}.
+
+Примеры кода и сгенерированных уравнений можно также найти в Jupyter блокнотах лекций. 
+
+\subsection{Списки}
+
+Списки генерируются с использоваением блока \mintinline{latex}{\begin{itemize}} и \mintinline{latex}{\end{itemize}}, с их помощью можно делать вложенные списки:
+
+\begin{codebox}{Код для генерации списков}
+    \begin{minted}{Latex}
+		\begin{itemize}
+			\item item 1
+			\item group 1
+			\begin{itemize}
+				\item item 2
+				\item item 3
+				\begin{itemize}
+    				\item item 4
+    				\item item 5
+      			\end{itemize}
+			\end{itemize}
+			\item item 6
+			\item item 7
+		\end{itemize}
+    \end{minted}
+\end{codebox}
+
+Результат:
+
+\begin{itemize}
+	\item item 1
+	\item group 1
+	\begin{itemize}
+		\item item 2
+		\item item 3
+		\begin{itemize}
+			\item item 4
+			\item item 5
+  		\end{itemize}
+	\end{itemize}
+	\item item 6
+	\item item 7
+\end{itemize}
+
+\subsection{Images}
+
+Картинки вставляются в текст с помощью блока \mintinline{latex}{\begin{figure}} и \mintinline{latex}{\end{figure}}. Здесь также можно добавлять ссылки с помощью \mintinline{latex}{\label{eq:func}}. В блоке \mintinline{latex}{\begin{figure}} для загрузки картинки используется команда \mintinline{latex}{\includegraphics[width=ширина картинки]{путь к картинке}}. Ширина задается в определенных единицах (cm, in, em ...). Подпись к рисунку задается командой \mintinline{latex}{\caption}.
+
+Пример кода загружающего картинку:
+
+\begin{codebox}{Код для вставки рисунков}
+    \begin{minted}{Latex}
+        \begin{figure}[H]
+            \begin{center}
+                \includegraphics[width=10cm]{src/BMSTU.png}
+                \caption{Рисунок 1. Герб МГТУ.}
+                \label{img:bmstu_logo}
+            \end{center}
+        \end{figure}
+    \end{minted}
+\end{codebox}
+
+\begin{figure}[H]
+    \begin{center}
+        \includegraphics[width=\textwidth/3]{src/BMSTU.png}
+        \caption{Рисунок 1. Герб МГТУ.}
+        \label{img:bmstu_logo}
+    \end{center}
+\end{figure}
+
+\subsection{Code}
+
+Программный код можно вставлять как в текст черезе \mintinline{Latex}{\mintinline}: \mintinline{python}{print("Hello world!")}, так и в отдельные блоки с помощью блока \mintinline{Latex}{\begin{codebox}} и \mintinline{Latex}{\end{codebox}}. Внутри блока используется второй блок \mintinline{Latex}{\begin{minted}{Язык программирования}} и \mintinline{Latex}{\end{minted}}. Пример блока с кодом:
+
+\begin{codebox}{Пример кода Python}
+    \begin{minted}{python}
+        # Функция для нахождения n-го числа Фибоначчи. 
+          
+        def Fibonacci(n): 
+            if n<0: 
+                print("Incorrect input") 
+            # First Fibonacci number is 0 
+            elif n==1: 
+                return 0
+            # Second Fibonacci number is 1 
+            elif n==2: 
+                return 1
+            else: 
+                return Fibonacci(n-1)+Fibonacci(n-2) 
+          
+        # Запуск функции 
+          
+        print(Fibonacci(9)) 
+          
+        #Код отсюда (https://www.geeksforgeeks.org/python-program-for-program-for-fibonacci-numbers-2/) 
+
+    \end{minted}
+\end{codebox}
+
+\subsection{Условие задачи}
+Условия задач домашнего задания выписываются в отдельном блоке \mintinline{Latex}{\begin{problem}{№ задачи}} и \mintinline{Latex}{\end{problem}}. Пример
+
+\begin{codebox}{Код для вставки рисунков}
+    \begin{minted}{Latex}
+        \begin{problem}{1}
+        Реализуйте схему "КАБАРЕ" для решения уравнения Хопфа:
+        \begin{equation}
+            \frac{\partial u}{\partial t} = - u \frac{\partial u}{\partial x}
+        \end{equation}
+        Определите область устойчивости схемы, проанализируйте её диссипативные и дисперсионные характеристики.
+        \end{problem}
+    \end{minted}
+\end{codebox}
+
+\begin{problem}{1}
+Реализуйте схему "КАБАРЕ" для решения уравнения Хопфа:
+\begin{equation}
+    \frac{\partial u}{\partial t} = - u \frac{\partial u}{\partial x}
+\end{equation}
+Определите область устойчивости схемы, проанализируйте её диссипативные и дисперсионные характеристики.
+\end{problem}
+
+\subsection{Ссылки}
+
+Особенно просто с помощью \LaTeX~генерируются списки литературы. Если в работе используются или делается обзор на результаты сторонних авторов, всегда необходимо ссылаться на соответствующие работы. Библиография записывается в отдельный файл \mintinline{text}{./biblio.bib}. В качестве примера сейчас там приведены три работы. Сослаться на них можно используя команду \mintinline{Latex}{\cite{название работы}}: Работа Эйнштейна по электродинамике движущихся тел \cite{einstein}. Книга Frank Mittelbach с соавторами ``The LaTeX Companion (Tools and Techniques for Computer Typesetting)'' \cite{latexcompanion}. Веб-сайт создателя \TeX~Дональда Кнута \cite{knuthwebsite}. Как только в тексте появляется ссылка на работу, она автоматически помещается в список литературы в конце документа.  
+
+\section{Вопросы, ошибки и предложения}
+
+Вопросы по использованию класса math\_mod.cls, вопросы по данному примеру использования этого класса, ошибки и предложения по их модификации пишите в разделе Issues на \href{https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys}{сайте} github репозитория курса ``Математическое моделирование в технической физике''. Конекретные модификации можно предлагать и виде Pull Requests, они будут обязательно рассмотрены.  
+
+\bibliography{biblio}
+
+\end{document}
