@@ -17,9 +17,11 @@
 При создании проекта типа Blank Project генерируется наименьшее количество файлов, если быть точным, лишь один - *main.tex*. Для стиля *math_mod.cls* уже имеется пример его использования, так что сгенерированный автоматических *main.tex* нам не понадобится. Удалим его:
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/overleaf_delete.gif?raw=true)
 
-Далее, загрузим вс необходимые нам файлы из диретории [assignment](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment):
+Далее, загрузим все необходимые нам файлы из директории [assignment](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment):
 
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/overleaf_add.gif?raw=true)
+
+> ***Внимание !*** Директорию src создавать обзательно, в ней находятся рисунки необходимые для оформления работы в соответствии со стилевым файлом.
 
 После этого можно выполнить компиляцию *main.tex*. Более подробные инструкции по работе со стилевым файлом описаны непосредственно в *main.tex* или в [Assignment.pdf](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment.pdf), который является результатом компиляции *main.tex*. 
 
