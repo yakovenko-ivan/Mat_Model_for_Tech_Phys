@@ -15,7 +15,7 @@
  Лекция 1. Конечно-разностные методы.  
   * [Часть 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/3760dd9e3504c3dba18e0e630bcb6b71624afb25/files/Lesson_1/Lesson_1_1.ipynb?flush_cache=true) Конечно-разностная аппроксимация производных
   * [Часть 2.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/3760dd9e3504c3dba18e0e630bcb6b71624afb25/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true) Подходы к  получению конечно-разностных аппроксимаций
-  * [Часть 3.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/54c775f132c7f18b4945590def9856f7a6ff4414/files/Lesson_1/Lesson_1_3.ipynb?flush_cache=true) Построение конечно разностных схем для уравнения адвекции 
+  * [Часть 3.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/54c775f132c7f18b4945590def9856f7a6ff4414/files/Lesson_1/Lesson_1_3.ipynb?flush_cache=true) Построение конечно-разностных схем для уравнения адвекции 
   
  ___
 
