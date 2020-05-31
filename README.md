@@ -7,6 +7,7 @@
  * [Установка](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/Install.md) python 3, NumPy, SciPy, Matplotlib, Jupyter 
  * [Введение](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/Jupyter_intro.md) в работу с блокнотами Jupyter Notebooks
  * [Что такое Git и GitHub](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/Git_intro.md)
+ * [Работа с LaTeX и Overleaf](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/Overleaf.md)
  
  # Содержание курса
  [Лекция 0.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/3760dd9e3504c3dba18e0e630bcb6b71624afb25/files/Lesson_0/Lesson_0.ipynb?flush_cache=true) Основы языка программирования python 3. 
