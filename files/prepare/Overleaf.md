@@ -20,7 +20,7 @@
 
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/overleaf_delete.gif?raw=true)
 
-Далее, загрузим все необходимые нам файлы из директории [assignment](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment). Для этого можно скачать на свой компьютер содержимое этой директории, а дальше воспольщоваться Drag&Drop возможностью переноса файлов в проект **Overleaf**:
+Далее, загрузим все необходимые нам файлы из директории [assignment](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment). Для этого можно скачать на свой компьютер содержимое этой директории, а дальше воспользоваться Drag&Drop возможностью переноса файлов в проект **Overleaf**:
 
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/overleaf_add.gif?raw=true)
 
