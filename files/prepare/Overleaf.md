@@ -6,22 +6,25 @@
 Это кросс-платформенные дистрибутивы, которые можно загрузить на персональный компьютер и работать с **LaTeX** без подключения к интернету. Для удобства с такими дистрибутивами разработан специальный редактор или можно даже её назвать Интегрированной средой разработки (IDE) для **LaTeX** - [**TeXstudio**](https://www.texstudio.org/). 
 Кроме локальных, имеются также и онлайн системы для работы с **LaTeX**, одна из наиболее популярных и многофункциональных - [**Overleaf**](https://www.overleaf.com/). 
 
-Пример окна **Overleaf** приведен на рисунке:
+Пример окна **Overleaf** приведен на рисунке:  
+
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/Overleaf.jpg "Пример экрана Overleaf")
 
 В рамках данного курса был специально разработан стилевой файл для оформления домашних заданий с импользованием **LaTeX** - *math_mod.cls*. Стилевой файл *math_mod.cls*, и пример его использования расположены в директории [assignment](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment). Проще всего работать с этим стилевым файлом в системе **Overleaf**, так как она не требует каких-либо настроек, необходимо лишь пройти регистрацию на сайте https://www.overleaf.com/. Далее приведем краткое руководство по работе с **Overleaf**. 
 
-После регистрации необходимо создать первый проект, мы будем делать Blank Project:
+После регистрации необходимо создать первый проект, мы будем делать Blank Project:  
+
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/overleaf_create.gif?raw=true)
 
-При создании проекта типа Blank Project генерируется наименьшее количество файлов, если быть точным, лишь один - *main.tex*. Для стиля *math_mod.cls* уже имеется пример его использования, так что сгенерированный автоматических *main.tex* нам не понадобится. Удалим его:
+При создании проекта типа Blank Project генерируется наименьшее количество файлов, если быть точным, лишь один - *main.tex*. Для стиля *math_mod.cls* уже имеется пример его использования, так что сгенерированный автоматических *main.tex* нам не понадобится. Удалим его:  
+
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/overleaf_delete.gif?raw=true)
 
 Далее, загрузим все необходимые нам файлы из директории [assignment](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment):
 
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/overleaf_add.gif?raw=true)
 
-> ***Внимание !*** Директорию src создавать обзательно, в ней находятся рисунки необходимые для оформления работы в соответствии со стилевым файлом.
+> ***Внимание !*** Директорию src создавать обязательно, в ней находятся рисунки, необходимые для оформления работы в соответствии со стилевым файлом.
 
 После этого можно выполнить компиляцию *main.tex*. Более подробные инструкции по работе со стилевым файлом описаны непосредственно в *main.tex* или в [Assignment.pdf](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment.pdf), который является результатом компиляции *main.tex*. 
 
