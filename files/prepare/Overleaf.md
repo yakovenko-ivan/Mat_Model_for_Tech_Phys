@@ -12,11 +12,11 @@
 
 В рамках данного курса был специально разработан стилевой файл для оформления домашних заданий с импользованием **LaTeX** - *math_mod.cls*. Стилевой файл *math_mod.cls*, и пример его использования расположены в директории [assignment](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment). Проще всего работать с этим стилевым файлом в системе **Overleaf**, так как она не требует каких-либо настроек, необходимо лишь пройти регистрацию на сайте https://www.overleaf.com/. Далее приведем краткое руководство по работе с **Overleaf**. 
 
-После регистрации необходимо создать первый проект, мы будем делать Blank Project:  
+После регистрации необходимо создать первый проект, мы будем делать *Blank Project* с названием *Homework #1*:  
 
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/overleaf_create.gif?raw=true)
 
-При создании проекта типа Blank Project генерируется наименьшее количество файлов, если быть точным, лишь один - *main.tex*. Для стиля *math_mod.cls* уже имеется пример его использования, так что сгенерированный автоматических *main.tex* нам не понадобится. Удалим его:  
+При создании проекта типа *Blank Project* создается наименьшее количество файлов, а точнее, лишь один - *main.tex*. Для стиля *math_mod.cls* уже имеется пример его использования, так что сгенерированный автоматических *main.tex* нам не понадобится. Удалим его:  
 
 ![](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/overleaf_delete.gif?raw=true)
 
