@@ -10,12 +10,12 @@
  * [Работа с LaTeX и Overleaf](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/prepare/Overleaf.md)
  
  # Содержание курса
- [Лекция 0.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/7fe699efa76f1c8fec7d0032babc911dfa68cf9e/files/Lesson_0/Lesson_0.ipynb?flush_cache=true) Основы языка программирования python 3. 
+ [Лекция 0.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/a02b704ae44c007ac7270afca297103e9e790932/files/Lesson_0/Lesson_0.ipynb?flush_cache=true) Основы языка программирования python 3. 
  
  Лекция 1. Конечно-разностные методы.  
-  * [Часть 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/7fe699efa76f1c8fec7d0032babc911dfa68cf9e/files/Lesson_1/Lesson_1_1.ipynb?flush_cache=true) Конечно-разностная аппроксимация производных
-  * [Часть 2.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/7fe699efa76f1c8fec7d0032babc911dfa68cf9e/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true) Подходы к  получению конечно-разностных аппроксимаций
-  * [Часть 3.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/7fe699efa76f1c8fec7d0032babc911dfa68cf9e/files/Lesson_1/Lesson_1_3.ipynb?flush_cache=true) Построение конечно-разностных схем для уравнения адвекции 
-  * [Часть 4.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/7fe699efa76f1c8fec7d0032babc911dfa68cf9e/files/Lesson_1/Lesson_1_4.ipynb?flush_cache=true) Анализ свойств конечно-разностных схем 
+  * [Часть 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/a02b704ae44c007ac7270afca297103e9e790932/files/Lesson_1/Lesson_1_1.ipynb?flush_cache=true) Конечно-разностная аппроксимация производных
+  * [Часть 2.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/a02b704ae44c007ac7270afca297103e9e790932/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true) Подходы к  получению конечно-разностных аппроксимаций
+  * [Часть 3.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/a02b704ae44c007ac7270afca297103e9e790932/files/Lesson_1/Lesson_1_3.ipynb?flush_cache=true) Построение конечно-разностных схем для уравнения адвекции 
+  * [Часть 4.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/a02b704ae44c007ac7270afca297103e9e790932/files/Lesson_1/Lesson_1_4.ipynb?flush_cache=true) Анализ свойств конечно-разностных схем 
  ___
 
