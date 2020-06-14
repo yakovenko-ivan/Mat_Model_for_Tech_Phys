@@ -19,7 +19,7 @@
   * [Часть 4.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/f6102b778aca1f3f9ec616930c5fef769f76323c/files/Lesson_1/Lesson_1_4.ipynb?flush_cache=true) Анализ свойств конечно-разностных схем 
   
  Лекция 2. Метод конечных элементов.
-  * [Практика 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/e0c411e9ca6775a17042f639373c8dd6c19fed5e/files/Lesson_1/Lesson_2_1.ipynb?flush_cache=true) Пример реализации Метода конечных элементов для задачи переноса тепла в двухмерной области.
+  * [Практика 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/989e384b97ed6f39d29dcda008e689ded07fbd94/files/Lesson_1/Lesson_2_1.ipynb?flush_cache=true) Пример реализации Метода конечных элементов для задачи переноса тепла в двухмерной области.
  
   
  ___
