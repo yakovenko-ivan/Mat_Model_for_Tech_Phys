@@ -25,4 +25,4 @@
  ___
 
 ## Текущая успеваемость
-[Таблица](https://docs.google.com/spreadsheets/d/1pbutZll1uAdkCPQ9JDk4U588uqzD2qhdet5OvOr5j0U/edit?usp=sharing) текущей успеваемости по курсу, магистры ФН-4, 2020 год
+[Таблица](https://docs.google.com/spreadsheets/d/1sbOdOSY0GLxhPOukJKN8atYNO1Pai4uiMVidP6y6LmU/edit?usp=sharing) текущей успеваемости по курсу, магистры ФН-4, осень 2020 год
