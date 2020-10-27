@@ -17,7 +17,7 @@
   * [Часть 2.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true) Подходы к  получению конечно-разностных аппроксимаций
   * [Часть 3.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_3.ipynb?flush_cache=true) Построение конечно-разностных схем для уравнения адвекции 
   * [Часть 4.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_4.ipynb?flush_cache=true) Анализ свойств конечно-разностных схем 
-  * [Часть 5.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_5.ipynb?flush_cache=true) Нелинейное уравнение Бюргерса
+  * [Часть 5.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_5.ipynb?flush_cache=true) Квазилинейное уравнение переноса
  
 ## Домашнее задание 
 [Проект №1](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment%231.pdf) на тему "Конечно-разностные методы"
