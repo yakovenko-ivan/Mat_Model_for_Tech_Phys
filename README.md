@@ -17,12 +17,13 @@
   * [Часть 2.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/95db8cc9ef2e9dfe411e74d31054dd8a68476c26/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true) Подходы к  получению конечно-разностных аппроксимаций
   * [Часть 3.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/f6102b778aca1f3f9ec616930c5fef769f76323c/files/Lesson_1/Lesson_1_3.ipynb?flush_cache=true) Построение конечно-разностных схем для уравнения адвекции 
   * [Часть 4.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/f6102b778aca1f3f9ec616930c5fef769f76323c/files/Lesson_1/Lesson_1_4.ipynb?flush_cache=true) Анализ свойств конечно-разностных схем 
-  
- Лекция 2. Метод конечных элементов.
-  * [Практика 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/989e384b97ed6f39d29dcda008e689ded07fbd94/files/Lesson_1/Lesson_2_1.ipynb?flush_cache=true) Пример реализации Метода конечных элементов для задачи переноса тепла в двухмерной области.
+ 
+## Домашнее задание 
+[Проект №1](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment%231.pdf) на тему "Конечно-разностные методы"
+
  
   
  ___
 
 ## Текущая успеваемость
-[Таблица](https://docs.google.com/spreadsheets/d/1pbutZll1uAdkCPQ9JDk4U588uqzD2qhdet5OvOr5j0U/edit?usp=sharing) текущей успеваемости по курсу, магистры ФН-4, 2020 год
+[Таблица](https://docs.google.com/spreadsheets/d/1sbOdOSY0GLxhPOukJKN8atYNO1Pai4uiMVidP6y6LmU/edit?usp=sharing) текущей успеваемости по курсу, магистры ФН-4, осень 2020 год
