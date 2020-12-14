@@ -18,7 +18,7 @@
   * [Часть 3.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_3.ipynb?flush_cache=true) Построение конечно-разностных схем для уравнения адвекции 
   * [Часть 4.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_4.ipynb?flush_cache=true) Анализ свойств конечно-разностных схем 
   * [Часть 5.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_5.ipynb?flush_cache=true) Квазилинейное уравнение переноса
-  * [Часть 6.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/a3ecd9d3a424470783013169f62d83a3a15f56ca/files/Lesson_1/Lesson_1_6.ipynb?flush_cache=true) Метод КАБАРЕ  
+  * [Часть 6.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/3f375251d458155c5662c613bedbbd2e7df85d76/files/Lesson_1/Lesson_1_6.ipynb?flush_cache=true) Метод КАБАРЕ для уравнений и систем гиперболического типа  
  
 ## Домашнее задание 
 [Проект №1](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment%231.pdf) на тему "Конечно-разностные методы"
