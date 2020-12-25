@@ -21,8 +21,8 @@
   * [Часть 6.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/e6c9fe233869327808bfad62beee8ac65dbe8d83/files/Lesson_1/Lesson_1_6.ipynb?flush_cache=true) Метод КАБАРЕ для уравнений и систем гиперболического типа  
  
 ## Домашнее задание 
-[Проект №1](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment%231.pdf) на тему "Конечно-разностные методы"
-[Проект №2](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment%232.pdf) на тему "Распад произвольного разрыва в политропном газе"
+* [Проект №1](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment%231.pdf) на тему "Конечно-разностные методы"
+* [Проект №2](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment%232.pdf) на тему "Распад произвольного разрыва в политропном газе"
  
   
  ___
