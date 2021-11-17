@@ -22,7 +22,7 @@
  
 ## Домашнее задание 
 * [Проект №1](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment%231_2021.pdf) на тему "Конечно-разностные методы"
-* [Проект №2](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment%232.pdf) на тему "Распад произвольного разрыва в политропном газе"
+* [Проект №2](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/assignment/Assignment%232_2021.pdf) на тему "Распад произвольного разрыва в политропном газе"
  
   
  ___
