@@ -28,4 +28,4 @@
  ___
 
 ## Текущая успеваемость
-[Таблица](https://docs.google.com/spreadsheets/d/1Spm9TQO7dxMFRORCpgtqf7_5ww9HryN3HX-c7SrmP1c/edit#gid=0) текущей успеваемости по курсу, магистры ФН-4, осень 2022 год
+[Таблица](https://docs.google.com/spreadsheets/d/1C6un52CUhy2WXbZ2Kj5YDD6YA9HDFUo6JziDc1t2g9E/edit?usp=sharing) текущей успеваемости по курсу, магистры ФН-4, осень 2026 год
