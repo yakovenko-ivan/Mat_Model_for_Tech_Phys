@@ -13,13 +13,13 @@
  [Лекция 0.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/95db8cc9ef2e9dfe411e74d31054dd8a68476c26/files/Lesson_0/Lesson_0.ipynb?flush_cache=true) Основы языка программирования python 3. 
  
  Лекция 1. Конечно-разностные методы.  
-  * [Часть 1.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_1.ipynb?flush_cache=true) Конечно-разностная аппроксимация производных
-  * [Часть 2.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_2.ipynb?flush_cache=true) Подходы к  получению конечно-разностных аппроксимаций
-  * [Часть 3.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_3.ipynb?flush_cache=true) Построение конечно-разностных схем для уравнения адвекции 
-  * [Часть 4.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_4.ipynb?flush_cache=true) Анализ свойств конечно-разностных схем 
-  * [Часть 5.] (https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_1/Lesson_1_5.ipynb) Эллиптические и параболические уравнения
-  * [Часть 6.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/6543ab5b4c9b90097037a2886ba1d0ef5a85cea4/files/Lesson_1/Lesson_1_5.ipynb?flush_cache=true) Квазилинейное уравнение переноса
-  * [Часть 7.](https://nbviewer.jupyter.org/github/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/672a724bbf94f4efb3b217f4a66f89a0771f0fb6/files/Lesson_1/Lesson_1_6.ipynb?flush_cache=true) Метод КАБАРЕ для уравнений и систем гиперболического типа
+  * [Часть 1.](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_1/Lesson_1_1.ipynb) Конечно-разностная аппроксимация производных
+  * [Часть 2.](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_1/Lesson_1_2.ipynb) Подходы к  получению конечно-разностных аппроксимаций
+  * [Часть 3.](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_1/Lesson_1_3.ipynb) Построение конечно-разностных схем для уравнения адвекции 
+  * [Часть 4.](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_1/Lesson_1_4.ipynb) Анализ свойств конечно-разностных схем 
+  * [Часть 5.](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_1/Lesson_1_5.ipynb) Эллиптические и параболические уравнения
+  * [Часть 6.](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_1/Lesson_1_6.ipynb) Квазилинейное уравнение переноса
+  * [Часть 7.](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_1/Lesson_1_7.ipynb) Метод КАБАРЕ для уравнений и систем гиперболического типа
   * [Часть 8.](https://github.com/yakovenko-ivan/Mat_Model_for_Tech_Phys/blob/master/files/Lesson_1/Lesson_1_8.ipynb) Метод крупных частиц
  
 ## Домашнее задание 
